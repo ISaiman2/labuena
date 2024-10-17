@@ -1,0 +1,4 @@
+body{background: rgb(78, 15, 114);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; } header{background: rgb(222, 136, 240);height: 200px;text-align: center;line-height: 200px;color: rgb(245, 246, 250);}
+nav{background: rgb(204, 86, 240);height: 100px; text-align: center;line-height: 100px; color: black;}
+#LMAO{background: rgb(243, 243, 243);color: rgb(98, 106, 151);height: 500px;width: 70%;float: left;} #LOCO{background: rgb(253, 253, 253);color: rgb(103, 113, 168);height: 500px;width: 30%;float:left}
+footer{background: rgb(222, 136, 240);height: 200px;text-align: center;line-height: 200px;color: rgb(245, 246, 250);}
